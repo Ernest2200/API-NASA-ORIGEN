@@ -1,4 +1,7 @@
-																[ORIGEN](http://www.origencorp.net/) 
+>[!NOTE]
+>Para iniciar el proyecto correctamente debe crear la base de datos llamada: **db_nasa**
+		
+  [ORIGEN](http://www.origencorp.net/) 
 																	JAVA Nasa Technical Test ✍
 										
 Este test es para poder aplicar a la posición de JAVA Developer. Una vez accedas a este repositorio, sigue los siguientes pasos e indicaciones, por favor leer detalladamente.  
